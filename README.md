@@ -32,3 +32,12 @@ python predict.py --image_dir ./test256/images_pngs/
 
 # Result visualization
 see visualization.ipynb
+
+
+# Reference
+Learning Deep Features for Discriminative Localization
+http://cnnlocalization.csail.mit.edu/Zhou_Learning_Deep_Features_CVPR_2016_paper.pdf
+
+Grad-CAM:
+Visual Explanations from Deep Networks via Gradient-based Localization
+https://arxiv.org/pdf/1610.02391.pdf
