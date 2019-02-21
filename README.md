@@ -3,11 +3,13 @@ RadAI coding challenge. Train models using using weak supervision such as image-
 
 # Dataset
 folder hierarchy \
---Rad_AI_technical_test \
-  --train256 \
-    --liver \
-    --noliver \
-  --test256 \
-    --images_pngs \
-    --masks_pngs \
+```
+--Rad_AI_technical_test 
+  --train256 
+    --liver 
+    --noliver 
+  --test256 
+    --images_pngs 
+    --masks_pngs 
+ ```
 # Perform transfer learning on CT scans dataset
