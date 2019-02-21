@@ -3,7 +3,7 @@ RadAI coding challenge. Train models using using weak supervision such as image-
 
 # Dataset
 folder hierarchy
---Rad_AI_technical_test /n
+--Rad_AI_technical_test \n
   --train256
     --liver
     --noliver
