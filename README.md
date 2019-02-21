@@ -2,7 +2,7 @@
 RadAI coding challenge. Train models using using weak supervision such as image-level labels, producing pixel-level labels for CT scans.
 
 # Dataset
-folder hierarchy \
+folder hierarchy
 ```
 --Rad_AI_technical_test 
   --train256 
