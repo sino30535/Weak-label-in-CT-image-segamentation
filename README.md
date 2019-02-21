@@ -31,11 +31,11 @@ python predict.py --image_dir ./test256/images_pngs/
 ```
 
 # Result visualization
-![image](https://github.com/sino30535/Rad_AI_technical_test/blob/master/result/012_368_5_r.png)![image](https://github.com/sino30535/Rad_AI_technical_test/blob/master/result/012_368_5.png)
+![image](https://github.com/sino30535/Rad_AI_technical_test/blob/master/result/012_368_5_r.png)<img src="https://github.com/sino30535/Rad_AI_technical_test/blob/master/result/012_368_5.png" height="300">
 
-![image](https://github.com/sino30535/Rad_AI_technical_test/blob/master/result/012_380_0_r.png)![image](https://github.com/sino30535/Rad_AI_technical_test/blob/master/result/012_380_0.png)
+![image](https://github.com/sino30535/Rad_AI_technical_test/blob/master/result/012_380_0_r.png)<img src="https://github.com/sino30535/Rad_AI_technical_test/blob/master/result/012_380_0.png" height="300">
 
-![image](https://github.com/sino30535/Rad_AI_technical_test/blob/master/result/012_383_5_r.png)![image](https://github.com/sino30535/Rad_AI_technical_test/blob/master/result/012_383_5.png)
+![image](https://github.com/sino30535/Rad_AI_technical_test/blob/master/result/012_383_5_r.png)<img src="https://github.com/sino30535/Rad_AI_technical_test/blob/master/result/012_383_5.png" height="300">
 
 
 # Reference
