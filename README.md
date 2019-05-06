@@ -4,7 +4,7 @@ Train models using using weak supervision such as image-level labels, producing 
 # Dataset
 Folder hierarchy of dataset.
 ```
---Rad_AI_technical_test
+--Biomedical_data
   --train.py
   --predict.py
   --train256 
